@@ -1,0 +1,19 @@
+# Flutter/Dart dosyaları
+.dart_tool/
+.pub-cache/
+build/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.project
+.settings/
+.vscode/
+.idea/
+
+# Android için gereksizler
+*.apk
+*.aab
+
+# Gizli bilgiler
+.env
+google-services.json
